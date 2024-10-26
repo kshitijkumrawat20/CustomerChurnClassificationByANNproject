@@ -33,14 +33,6 @@ This project focuses on predicting customer churn using an Artificial Neural Net
 
 Run the `experiments.ipynb` notebook to preprocess the data, train the ANN model, and save the necessary files.
 
-### Making Predictions
-
-Use the `prediction.py` script to make predictions on new data:
-
-```python
-python prediction.py
-```
-
 ### Streamlit Web Application
 
 Run the Streamlit app:
