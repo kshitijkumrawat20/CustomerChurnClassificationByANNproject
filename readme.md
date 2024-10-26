@@ -1,6 +1,4 @@
-Here's a README.md file in Markdown format for your customer churn classification project using ANN:
 
-```markdown
 # Customer Churn Classification using Artificial Neural Network (ANN)
 
 This project focuses on predicting customer churn using an Artificial Neural Network (ANN). It includes data preprocessing, model training, and a Streamlit web application for making predictions.
@@ -8,12 +6,13 @@ This project focuses on predicting customer churn using an Artificial Neural Net
 ## Project Structure
 
 - `experiments.ipynb`: Jupyter notebook containing the data preprocessing, model training, and evaluation steps.
-- `prediction.py`: Python script for making predictions using the trained model.
+- `prediction.ipynb`: Jupyter notebook for making predictions using the trained model.
 - `app.py`: Streamlit application for user-friendly predictions.
 - `model.h5`: Saved ANN model.
 - `label_encoder_gender.pkl`: Pickle file for gender label encoder.
 - `onehot_encoder_geo.pkl`: Pickle file for geography one-hot encoder.
 - `scaler.pkl`: Pickle file for feature scaler.
+- `requirements.txt`: all the requirements mentioned
 
 ## Setup and Installation
 
