@@ -18,7 +18,7 @@ This project focuses on predicting customer churn using an Artificial Neural Net
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/kshitijkumrawat20/CustomerChurnClassificationByANNproject.git
    cd <repository-name>
    ```
 
